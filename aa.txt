@@ -1,4 +1,5 @@
 aa
 bb
 branch1:aa
-branch2:bb
+branch1:bb
+branch2:aa
